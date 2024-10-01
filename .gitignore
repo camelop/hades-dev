@@ -1,0 +1,12 @@
+/.idea/
+/build/
+/cmake-build-debug/
+/cmake-build-release/
+/git-exclude/
+/todos.md
+*.DS_Store
+*.vscode/
+/lib/seal
+/tmp
+/tpc-h-v*
+__pycache__

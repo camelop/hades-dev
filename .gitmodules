@@ -1,0 +1,4 @@
+[submodule "lib/seal"]
+	path = lib/seal
+	url = https://github.com/microsoft/SEAL.git
+	ignore = dirty
